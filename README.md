@@ -1,4 +1,5 @@
 Project Name: Slack Catch-Up Assistant
+
 Link: https://ai.studio/apps/a4c5061b-c959-4e9d-b761-1895cf2bd2ca
 
 Overview: An AI-powered assistant that automatically generates a personalized catch-up dashboard to address information overload and enhance productivity when users return to Slack.
