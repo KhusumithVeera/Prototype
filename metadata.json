@@ -1,0 +1,6 @@
+{
+  "name": "Slack AI",
+  "description": "An AI-powered dashboard that analyzes unread Slack messages to provide structured summaries of action items, need-to-know updates, and key decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
